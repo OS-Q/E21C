@@ -1,0 +1,7 @@
+{
+    "name": "framework-N33",
+    "description": "Vendor-independent hardware abstraction layer for the Cortex-M processor series",
+    "system": "*",
+    "url": "https://github.com/OS-Q/N33",
+    "version": "2.50400.181126"
+}
