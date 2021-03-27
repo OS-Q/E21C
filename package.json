@@ -1,7 +1,7 @@
 {
-    "name": "framework-N33",
+    "name": "E21C",
     "description": "ARM CMSIS hardware abstraction layer for the Cortex-M processor series",
     "system": "*",
-    "url": "https://github.com/OS-Q/N33",
+    "url": "https://github.com/OS-Q/E21C",
     "version": "2.5.0"
 }
