@@ -33,5 +33,10 @@ CMSIS/*
 !CMSIS/Core/Include
 !CMSIS/Lib/GCC
 !CMSIS/Include
-!CMSIS/DSP/Include
+!CMSIS/NN/
 !CMSIS/Utilities
+!CMSIS/DSP/
+Projects/
+Examples/
+NN_Lib_Tests/
+ARM.CMSIS.pdsc

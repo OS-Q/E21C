@@ -1,1 +1,1 @@
-{"type": "tool", "name": "E21C", "version": "2.50501.200527", "spec": {"owner": "OSQ", "id": 8086, "name": "E21C", "requirements": null, "url": null}}
+{"type": "tool", "name": "framework-cmsis", "version": "2.50501.200527", "spec": {"owner": "platformio", "id": 8086, "name": "framework-cmsis", "requirements": null, "url": null}}
